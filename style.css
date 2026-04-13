@@ -25,7 +25,7 @@ button:focus {
   align-items: center;
   justify-content: center;
 
-  background-image: linear-gradient(#fdfbfb, #ebedee);
+  background-image: linear-gradient(#black, #ebedee);
   background-size: auto 100%;
 
   background-size: cover;
@@ -81,9 +81,9 @@ button:focus {
   height: 100vh;
   text-align: left;
   font-size: 25px;
-  color: black;
+  color: white;
 
-  background-image: linear-gradient(#fdfbfb, #ebedee);
+  background: url('assets/IMG_2985.jpg') no-repeat center center;
   background-size: cover;
 
 }
@@ -92,6 +92,8 @@ button:focus {
  width: 35%;
  padding: 3%;
  margin-left: 5%;
+   background-color: rgba(0, 0, 0, .5);
+
 }
 
 
